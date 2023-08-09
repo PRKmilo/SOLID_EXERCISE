@@ -10,6 +10,7 @@ public class Book extends LibraryItem{
 		super(title,price, 0.25);
 		// TODO Auto-generated constructor stub
 		this.authors=authors;
+		
 		this.formato=formato;
 		
 	}
